@@ -3,6 +3,8 @@ import java.io.PrintWriter;
 import java.io.IOException;
 import java.io.FileInputStream;
 
+
+
 public class ImageModify {
     public static int width;
     public static int height;
